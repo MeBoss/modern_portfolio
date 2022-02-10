@@ -9,7 +9,7 @@
   "author": "Boss",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "engines": {
     "node": "13.11.0"
